@@ -1,52 +1,64 @@
-# AutoEval <sup><sub>*Optimized for academic productivity.*</sub></sup>
-
-**AutoEval Classic** is an efficient browser automation tool specifically engineered for university academic evaluation systems. It replaces manual, repetitive form-filling with a seamless, human-like automated process.
-
-
-<video src="https://github.com/a8kj7sea/AutoEval/blob/main/assets/proof.mp4?raw=true" controls="controls" style="max-width: 100%;"></video>
-
----
-
-## 🚀 Key Features
-
-* **Customizable Modes**: Tailor your evaluations with presets for *Strongly Agree*, *Strongly Disagree*, or *Randomized* responses.
-* **Human-Centric Design**: Incorporates randomized time delays and "Human Variance" logic to mimic natural typing and thinking patterns.
-* **Intelligent CAPTCHA Handling**: Automatically detects, inputs, and submits required security codes for final form completion.
-* **Minimalist Interface**: A clean, distraction-free, and high-performance UI.
-
----
-
-## 🛠 Installation Guide
-
-1. **Get the Source**: Click the green **Code** button above and select **Download ZIP**.
-2. **Unpack**: Extract the contents of the ZIP file into a dedicated folder on your computer.
-3. **Enable Developer Mode**:
-* Navigate to `chrome://extensions/` in your browser.
-* Toggle the **Developer mode** switch (usually in the top-right corner).
-
-
-4. **Load the Extension**:
-* Click **Load unpacked**.
-* Select the folder you extracted in Step 2.
+# ⚡ AutoEval <sup><sub>**Optimized for Academic Productivity**</sup></sub>
 
 
 
----
+*AutoEval Classic is a high-performance browser automation tool engineered specifically for university academic evaluation systems. Say goodbye to repetitive manual form-filling and embrace a seamless, human-like automated workflow.*
 
-## ⚙️ How to Use
+[Features](https://www.google.com/search?q=%23-key-features) • [Installation](https://www.google.com/search?q=%23%25EF%25B8%258F-installation-guide) • [Usage](https://www.google.com/search?q=%23-how-to-use) • [Privacy](https://www.google.com/search?q=%23-safety--privacy)
 
-1. Navigate to your target university evaluation page.
-2. Click the **AutoEval** icon in your browser toolbar to open the control panel.
-3. Select your preferred **Evaluation Mode** (Agree/Disagree/Random).
-4. Configure your **Base Delay** (seconds) to match your desired speed.
-5. Click **Start Process**. The extension will handle the navigation and submission automatically.
+## 🎥 Project Demo
+<center>
+  
+[![AutoEval-Classic in Action](https://img.youtube.com/vi/iGs4x_6lm-Y/0.jpg)](https://www.youtube.com/watch?v=iGs4x_6lm-Y)
 
----
+</center>
+
+## ✨ Key Features
+
+| Feature | Description |
+| --- | --- |
+| 🎯 **Customizable Modes** | Tailor responses instantly with presets: *Strongly Agree*, *Strongly Disagree*, or *Randomized*. |
+| 🧠 **Human-Centric Logic** | Built-in "Human Variance" logic and randomized delays mimic natural typing and cognitive pacing. |
+| 🛡️ **Smart CAPTCHA** | Automatically detects and focuses required security/CAPTCHA inputs for final manual submission. |
+| 💎 **Minimalist UI** | A lightweight, distraction-free control panel designed for absolute performance and ease of use. |
+
+## ⚙️ Installation Guide
+
+Since AutoEval is a custom tool, it is loaded locally through developer mode.
+
+> **1. Get the Source Code**
+> * Click the green **Code** button at the top of this repository.
+> * Select **Download ZIP** and extract it to a dedicated folder on your computer.
+> 
+> 
+
+> **2. Enable Developer Mode**
+> * Open your Chromium-based browser (Chrome, Brave, Edge).
+> * Navigate to `chrome://extensions/` in the URL bar.
+> * Toggle the **Developer mode** switch (usually in the top-right corner) to **ON**.
+> 
+> 
+
+> **3. Load the Extension**
+> * Click the **Load unpacked** button that appears.
+> * Select the folder you extracted in Step 1. AutoEval is now installed!
+> 
+> 
+
+## 🚀 How to Use
+
+1. **Navigate** to your target university evaluation page.
+2. **Launch** the ⚡ **AutoEval icon** in your browser's extensions toolbar.
+3. **Configure** your settings:
+
+* Select your preferred **Evaluation Mode**.
+* Set your **Base Delay** (in seconds) to match your desired execution speed.
+
+4. **Execute** by clicking **Start Process**. Sit back while the extension handles the navigation and form submission.
 
 ## 🔒 Safety & Privacy
 
-* **Local Processing**: This extension operates entirely within your browser environment. Your data, sessions, and academic details are never stored or transmitted to external servers.
-* **Code Transparency**: The code is open-source. You are encouraged to review the `scripts/content.js` and other files to verify the logic and security of the automation process.
+Your academic integrity and personal data are our top priority.
 
----
-
+* **100% Local Processing:** AutoEval operates strictly within your browser's local environment. **Zero** data, session tokens, or academic details are stored or transmitted to external servers.
+* **Transparent Codebase:** The project is completely open-source. Developers are encouraged to review `scripts/content.js` and other core files to verify the logic and security architecture.
