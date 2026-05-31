@@ -1,4 +1,6 @@
-# ⚡ AutoEval <sup><sub>**Optimized for Academic Productivity**</sup></sub>
+
+[![Download v1.4](https://img.shields.io/badge/Download_v1.4-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a8kj7sea/AutoEval/releases/download/v1.4/autoeval-v1.4.zip)
+# ⚡ AutoEval <sup><sub>**Optimized for Academic Productivity** </sup></sub>
 
 
 
