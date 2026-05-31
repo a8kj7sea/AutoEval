@@ -6,7 +6,7 @@
 
 *AutoEval Classic is a high-performance browser automation tool engineered specifically for university academic evaluation systems. Say goodbye to repetitive manual form-filling and embrace a seamless, human-like automated workflow.*
 
-[Features](https://www.google.com/search?q=%23-key-features) • [Installation](https://www.google.com/search?q=%23%25EF%25B8%258F-installation-guide) • [Usage](https://www.google.com/search?q=%23-how-to-use) • [Privacy](https://www.google.com/search?q=%23-safety--privacy)
+[Features](#-key-features) • [Installation](#-installation-guide) • [Usage](#-how-to-use) • [Privacy](#-safety--privacy)
 
 ## 🎥 Project Demo
 <center>
