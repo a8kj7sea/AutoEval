@@ -24,7 +24,7 @@
 | 🛡️ **Smart CAPTCHA** | Automatically detects and focuses required security/CAPTCHA inputs for final manual submission. |
 | 💎 **Minimalist UI** | A lightweight, distraction-free control panel designed for absolute performance and ease of use. |
 
-## ⚙️ Installation Guide
+## ⚙️ [Installation Guide](https://youtu.be/fzWnzzyTyvw)
 
 Since AutoEval is a custom tool, it is loaded locally through developer mode.
 
